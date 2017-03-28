@@ -18,6 +18,7 @@
     "@types/mocha": "^2.2.32",
     "@types/node": "^7.0.12",
     "assert": "^1.4.1",
-    "typescript": "^2.0.3"
+    "typescript": "^2.0.3",
+    "4Developer2017-package": "git+https://github.com/Nowas/4Developer2017_package.git"
   }
 }
