@@ -4,7 +4,7 @@
   "description": "Simulator od mass transport vehicles for ToTu",
   "main": "app.js",
   "scripts": {
-    "test": "mocha",
+    "test": "mocha bin/tests",
     "start": "node bin/app.js"
   },
   "keywords": [
@@ -16,6 +16,8 @@
   "license": "ISC",
   "dependencies": {
     "@types/mocha": "^2.2.32",
+    "@types/node": "^7.0.12",
+    "assert": "^1.4.1",
     "tabi-base": "git+https://github.com/Nowas/4Developer2017_package.git",
     "typescript": "^2.0.3"
   }
