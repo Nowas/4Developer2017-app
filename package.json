@@ -1,0 +1,22 @@
+{
+  "name": "vehiclesimulator",
+  "version": "1.0.0",
+  "description": "Simulator od mass transport vehicles for ToTu",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "node bin/app.js"
+  },
+  "keywords": [
+    "ToTu",
+    "Vehicle",
+    "Simulator"
+  ],
+  "author": "Patryk Nowacki",
+  "license": "ISC",
+  "dependencies": {
+    "@types/mocha": "^2.2.32",
+    "tabi-base": "git+https://github.com/Nowas/4Developer2017_package.git",
+    "typescript": "^2.0.3"
+  }
+}
