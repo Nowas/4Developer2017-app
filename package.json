@@ -1,16 +1,16 @@
 {
-  "name": "vehiclesimulator",
+  "name": "4developers2017-app",
   "version": "1.0.0",
-  "description": "Simulator od mass transport vehicles for ToTu",
+  "description": "Sample App for 4Devcelopers 2017",
   "main": "app.js",
   "scripts": {
     "test": "mocha bin/tests",
     "start": "node bin/app.js"
   },
   "keywords": [
-    "ToTu",
-    "Vehicle",
-    "Simulator"
+    "4Developers",
+    "Presentation",
+    "TypeScript"
   ],
   "author": "Patryk Nowacki",
   "license": "ISC",
